@@ -83,7 +83,8 @@ body {
 }
 
 .conteudo-principal-escritorio-botao:hover {
-    background-color: 	#4F4F4F;
+    background-color: #363636;
+    color: white;
 }
 
 #logo2 {
