@@ -87,6 +87,10 @@ body {
     color: white;
 }
 
+.link {
+    padding-left: 20px;
+}
+
 #logo2 {
     height: 350px;
     margin-right: 20px;
