@@ -89,6 +89,7 @@ body {
 
 .link {
     padding-left: 10px;
+    cursor: pointer;
 }
 
 #logo2 {
